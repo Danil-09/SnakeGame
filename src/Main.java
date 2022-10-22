@@ -10,7 +10,6 @@ public class Main extends  JFrame {
         add(new GameField());
         setVisible(true);
 }
-
     public static void main(String[] args) {
         Main mm = new Main();
     }
